@@ -1,5 +1,5 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
-// https://github.com/microsoft/vscode-dev-containers/tree/v0.192.0/containers/dotnet-mssql
+// https://github.com/microsoft/vscode-dev-containers/tree/v0.203.0/containers/dotnet-mssql
 {
 	"name": "C# (.NET) and MS SQL",
 	"dockerComposeFile": "docker-compose.yml",
